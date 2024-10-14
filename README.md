@@ -1,5 +1,4 @@
 # DoH related
-doh_benign_chrome.py应该放在dataset_merge文件夹下，懒得改了。  
 
 试图复现论文：Detecting DNS over HTTPS based data exfiltration，但是没得代码和数据集。  
 最后的结果是没有复现成功，因为菜，但是有些东西还是要记录下来，这是工作量的证明。  
